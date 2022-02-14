@@ -8,7 +8,7 @@ Advanced Analytics Workspace (AAW) is our open source platform for data science 
 
 AAW is based on the Kubeflow project which is an open source comprehensive solution for deploying and managing end-to-end ML workflows. Kubeflow is designed to make deployments of ML workflows on Kubernetes simple, portable and scalable.
 
-🔔 **Important!** Users external to Statistics Canada will require a cloud account granted access by the business sponsor. Until access has been granted
+🔔 **Important!** Users external to Statistics Canada will require a cloud account granted access by the business sponsor.
 
 ## 🔗 Helpful Links
 
