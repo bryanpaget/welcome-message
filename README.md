@@ -8,8 +8,15 @@ Advanced Analytics Workspace (AAW) is our open source platform for data science 
 
 ## Helpful Links
 
-- Portal documentation: [https://statcan.github.io/daaas/](https://statcan.github.io/daaas/)
-- Slack support space: [https://statcan-aaw.slack.com](https://statcan-aaw.slack.com) 
+### AWW Services
+
+- AAW portal: [https://www.statcan.gc.ca/data-analytics-service/aaw](https://www.statcan.gc.ca/data-analytics-service/aaw)
+- Kubeflow dashboard: [https://kubeflow.aaw.cloud.statcan.ca/](ttps://kubeflow.aaw.cloud.statcan.ca/)
+
+### Help
+
+- Portal Documentation: [https://statcan.github.io/daaas/](https://statcan.github.io/daaas/)
+- Slack Support Channel: [https://statcan-aaw.slack.com](https://statcan-aaw.slack.com)
 
 ## Getting Started
 
@@ -21,13 +28,13 @@ In order to access the AAW services, you will need to:
   - Notebook servers
   - Documentation (docs, videos)
 
-Visit Kubeflow URL -> Select Notebook Servers -> Click "+ New Server" button
+1. Visit Kubeflow URL [https://kubeflow.aaw.cloud.statcan.ca/](ttps://kubeflow.aaw.cloud.statcan.ca/)
+3. -> Select Notebook Servers -> Click "+ New Server" button
 
 ### Technology stack: 
 
 Platform for data analysis and machine learning:
 
-  - R Shiny (for data visualization)
   - VS Code
   - R Studio
   - Jupyter notebooks
@@ -38,25 +45,12 @@ If you would like an Onboarding/Quick Demo session or require any help or have a
 
 (See French translation below) 
 
-Welcome to Advance Analytics Workspace (AAW), 
+### FAQ
 
-See below some key URLs in order to get started: 
-
-AAW portal: https://www.statcan.gc.ca/data-analytics-service/aaw 
-
-Kubeflow dashboard: https://kubeflow.aaw.cloud.statcan.ca/ 
-
-Documentation / Help: https://statcan.github.io/daaas/ 
-
-Slack Support channel: http://statcan-aaw.slack.com/ 
-
-Get Started: 
-
-Visit Kubeflow URL -> Select Notebook Servers -> Click "+ New Server" button. 
-
+- Coming soon!
 
 If you like a demo / onboarding session or have any questions, please feel free to reach out to us in our Slack Support channel. 
 
-*** Important *** Users external to Statistics Canada will require a cloud account granted access by the business sponsor. 
+**Important** Users external to Statistics Canada will require a cloud account granted access by the business sponsor. 
 
 Thank you! 
