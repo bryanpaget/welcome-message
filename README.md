@@ -17,13 +17,16 @@ AAW is based on the Kubeflow project which is an open source comprehensive solut
 - AAW Portal Homepage
   - [https://www.statcan.gc.ca/data-analytics-service/aaw](https://www.statcan.gc.ca/data-analytics-service/aaw)
 - Kubeflow Dashboard
-  - https://kubeflow.aaw.cloud.statcan.ca/](https://kubeflow.aaw.cloud.statcan.ca/) 
+  - [https://kubeflow.aaw.cloud.statcan.ca/](https://kubeflow.aaw.cloud.statcan.ca/) 
 
 ### Help
 
-- AAW Portal Documentation: [https://statcan.github.io/daaas/](https://statcan.github.io/daaas/)
-- Kubeflow Documentation: [https://www.kubeflow.org/docs/](https://www.kubeflow.org/docs/)  
-- Slack Support Channel: [https://statcan-aaw.slack.com](https://statcan-aaw.slack.com)
+- AAW Portal Documentation
+  - [https://statcan.github.io/daaas/](https://statcan.github.io/daaas/)
+- Kubeflow Documentation
+  - [https://www.kubeflow.org/docs/](https://www.kubeflow.org/docs/)  
+- Slack Support Channel
+  - [https://statcan-aaw.slack.com](https://statcan-aaw.slack.com)
 
 ## Getting Started
 
