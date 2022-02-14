@@ -22,28 +22,19 @@ Advanced Analytics Workspace (AAW) is our open source platform for data science 
 
 In order to access the AAW services, you will need to:
 
-1. Login to KUBEFLOW with your StatCan guest cloud account. You will be prompted to authenticate the account.
-2. Once signed in, you can select what meets your requirements to complete your work:
-  - Pipelines
-  - Notebook servers
-  - Documentation (docs, videos)
+1. Login to Kubeflow [here](https://kubeflow.aaw.cloud.statcan.ca/) with your StatCan guest cloud account. You will be prompted to authenticate the account.
+2. Select Notebook Servers
+3. Click "+ New Server" button
 
-1. Visit Kubeflow URL [https://kubeflow.aaw.cloud.statcan.ca/](ttps://kubeflow.aaw.cloud.statcan.ca/)
-3. -> Select Notebook Servers -> Click "+ New Server" button
+### Services and Tools Offered
 
-### Technology stack: 
+AAW is a flexible platform for data analysis and machine learning, featuring:
 
-Platform for data analysis and machine learning:
-
-  - VS Code
-  - R Studio
-  - Jupyter notebooks
-  - Model Service
-  - ML pipelines
+  - Languages: Python, R, Julia
+  - Development environments: VS Code, R Studio, Jupyter Notebooks
+  - Linux virtual desktop, for additional tools (OpenM++, QGIS etc...)
 
 If you would like an Onboarding/Quick Demo session or require any help or have any questions, please do not hesitate to reach out through our Slack Support channel,
-
-(See French translation below) 
 
 ### FAQ
 
