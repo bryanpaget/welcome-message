@@ -36,4 +36,27 @@ Platform for data analysis and machine learning:
 
 If you would like an Onboarding/Quick Demo session or require any help or have any questions, please do not hesitate to reach out through our Slack Support channel,
 
+(See French translation below) 
+
+Welcome to Advance Analytics Workspace (AAW), 
+
+See below some key URLs in order to get started: 
+
+AAW portal: https://www.statcan.gc.ca/data-analytics-service/aaw 
+
+Kubeflow dashboard: https://kubeflow.aaw.cloud.statcan.ca/ 
+
+Documentation / Help: https://statcan.github.io/daaas/ 
+
+Slack Support channel: http://statcan-aaw.slack.com/ 
+
+Get Started: 
+
+Visit Kubeflow URL -> Select Notebook Servers -> Click "+ New Server" button. 
+
+
+If you like a demo / onboarding session or have any questions, please feel free to reach out to us in our Slack Support channel. 
+
+*** Important *** Users external to Statistics Canada will require a cloud account granted access by the business sponsor. 
+
 Thank you! 
