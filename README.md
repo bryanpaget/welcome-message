@@ -1,8 +1,8 @@
 # AAW
 
-Welcome to Advance Analytics Workspace (AAW)
-
 ![image](https://user-images.githubusercontent.com/8212170/153892366-0b44876f-a69e-41ac-9dc7-bfcd2de56977.png)
+
+Welcome to Advance Analytics Workspace (AAW)
 
 Please find below additional information, videos and links to help better understand how to Get Started with Advanced Analytics Workspace (AAW). 
 
