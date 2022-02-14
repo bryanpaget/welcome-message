@@ -1,12 +1,12 @@
 ![image](https://user-images.githubusercontent.com/8212170/153892366-0b44876f-a69e-41ac-9dc7-bfcd2de56977.png)
 
-# 🧙🔮 Welcome to Advance Analytics Workspace (AAW)
+# 🧙🔮 Welcome to Advanced Analytics Workspace (AAW)
 
-Please find below additional information, videos and links to help better understand how to Get Started with Advanced Analytics Workspace (AAW). 
+Please find below additional information, videos and links to help better understand how to get started with Advanced Analytics Workspace (AAW). 
 
-Advanced Analytics Workspace (AAW) is our open source platform for data science and machine learning for advanced practitioners to get their work done in an unrestricted environment made by data scientists for data scientist. With AAW, you can customize your notebook deployment and your compute resources to suit your data science needs.
+Advanced Analytics Workspace (AAW) is our open source platform for data science and machine learning (ML) for advanced practitioners to get their work done in an unrestricted environment made by data scientists for data scientists. With AAW, you can customize your notebook deployment and your compute resources to suit your data science needs.
 
-AAW is based on the Kubeflow project which is an open source comprehensive solution for deploying and managing end-to-end ML workflows. Kubeflow is designed to make deployments of machine learning (ML) workflows on Kubernetes simple, portable and scalable.
+AAW is based on the Kubeflow project which is an open source comprehensive solution for deploying and managing end-to-end ML workflows. Kubeflow is designed to make deployments of ML workflows on Kubernetes simple, portable and scalable.
 
 🔔 **Important!** Users external to Statistics Canada will require a cloud account granted access by the business sponsor. Until access has been granted
 
@@ -49,6 +49,8 @@ AAW is a flexible platform for data analysis and machine learning, featuring:
     - R Studio
     - Jupyter Notebooks
   - 🐧 Linux virtual desktops for additional tools (🧫 OpenM++, 🌏 QGIS etc.)
+
+### 🐱 Demos
 
 If you would like an Onboarding/Quick Demo session or require any help or have any questions, please do not hesitate to reach out through our [🤝 Slack Support Channel](https://statcan-aaw.slack.com).
 
