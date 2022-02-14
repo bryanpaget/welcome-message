@@ -6,16 +6,19 @@ Please find below additional information, videos and links to help better unders
 
 Advanced Analytics Workspace (AAW) is our open source platform for data science and machine learning for advanced practitioners to get their work done in an unrestricted environment made by data scientists for data scientist.
 
+AAW is based on the Kubeflow project which is dedicated to making deployments of machine learning (ML) workflows on Kubernetes simple, portable and scalable.
+
 ## Helpful Links
 
 ### AAW Services
 
-- AAW portal: [https://www.statcan.gc.ca/data-analytics-service/aaw](https://www.statcan.gc.ca/data-analytics-service/aaw)
-- Kubeflow dashboard: [https://kubeflow.aaw.cloud.statcan.ca/](https://kubeflow.aaw.cloud.statcan.ca/)
+- AAW Portal Homepage: [https://www.statcan.gc.ca/data-analytics-service/aaw](https://www.statcan.gc.ca/data-analytics-service/aaw)
+- Kubeflow Dashboard: [https://kubeflow.aaw.cloud.statcan.ca/](https://kubeflow.aaw.cloud.statcan.ca/)
 
 ### Help
 
-- Portal Documentation: [https://statcan.github.io/daaas/](https://statcan.github.io/daaas/)
+- AAW Portal Documentation: [https://statcan.github.io/daaas/](https://statcan.github.io/daaas/)
+- Kubeflow Documentation: [https://www.kubeflow.org/docs/](https://www.kubeflow.org/docs/)  
 - Slack Support Channel: [https://statcan-aaw.slack.com](https://statcan-aaw.slack.com)
 
 ## Getting Started
