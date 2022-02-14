@@ -10,7 +10,7 @@ AAW is based on the Kubeflow project which is an open source comprehensive solut
 
 🔔 **Important!** Users external to Statistics Canada will require a cloud account granted access by the business sponsor. Until access has been granted
 
-## Helpful Links
+## 🔗 Helpful Links
 
 ### AAW Services
 
@@ -19,13 +19,13 @@ AAW is based on the Kubeflow project which is an open source comprehensive solut
 - Kubeflow Dashboard
   - [https://kubeflow.aaw.cloud.statcan.ca/](https://kubeflow.aaw.cloud.statcan.ca/) 
 
-### Help
+### ℹ️ Help
 
-- AAW Portal Documentation
+- 📗 AAW Portal Documentation
   - [https://statcan.github.io/daaas/](https://statcan.github.io/daaas/)
-- Kubeflow Documentation
+- 📘 Kubeflow Documentation
   - [https://www.kubeflow.org/docs/](https://www.kubeflow.org/docs/)  
-- Slack Support Channel
+- 🤝 Slack Support Channel
   - [https://statcan-aaw.slack.com](https://statcan-aaw.slack.com)
 
 ## Getting Started
@@ -33,16 +33,16 @@ AAW is based on the Kubeflow project which is an open source comprehensive solut
 In order to access the AAW services, you will need to:
 
 1. Login to [Kubeflow](https://kubeflow.aaw.cloud.statcan.ca/) with your StatCan guest cloud account. You will be prompted to authenticate the account.
-2. Select Notebook Servers
-3. Click "+ New Server" button
+2. Select Notebook Servers.
+3. Click the "➕ New Server" button.
 
 ### Services and Tools Offered
 
 AAW is a flexible platform for data analysis and machine learning, featuring:
 
   - Languages: Python, R, Julia
-  - Development environments: VS Code, R Studio, Jupyter Notebooks
-  - Linux virtual desktop, for additional tools (OpenM++, QGIS etc...)
+  - ⌨ Development environments: VS Code, R Studio, Jupyter Notebooks
+  - 🖥️🐧 Linux virtual desktop, for additional tools (OpenM++, QGIS etc...)
 
 If you would like an Onboarding/Quick Demo session or require any help or have any questions, please do not hesitate to reach out through our [Slack Support Channel](https://statcan-aaw.slack.com).
 
