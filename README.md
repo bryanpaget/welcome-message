@@ -44,10 +44,10 @@ AAW is a flexible platform for data analysis and machine learning, featuring:
   - 🧮 Development environments: VS Code, R Studio, Jupyter Notebooks
   - 🐧 Linux virtual desktops for additional tools (🧬 OpenM++, 🌏 QGIS etc.)
 
-If you would like an Onboarding/Quick Demo session or require any help or have any questions, please do not hesitate to reach out through our [Slack Support Channel](https://statcan-aaw.slack.com).
+If you would like an Onboarding/Quick Demo session or require any help or have any questions, please do not hesitate to reach out through our [🤝 Slack Support Channel](https://statcan-aaw.slack.com).
 
 ### FAQ
 
-- Coming soon!
+- 🚧 Coming soon!
 
 Thank you! 
