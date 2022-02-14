@@ -27,22 +27,14 @@ Visit Kubeflow URL -> Select Notebook Servers -> Click "+ New Server" button
 
 ### Technology stack: 
 
-Platform 
+Platform for data analysis and machine learning:
 
-- Kubernetes
-- Kubeflow
-- minIO
-- Seldon
-- Argo
-- Kibana + ElasticSearch 
-- RShiny 
-
-Analysis 
-•	VS Code
-•	RStudio
-•	Jupyter notebooks
-•	Model Service
-•	ML pipelines
+  - R Shiny (for data visualization)
+  - VS Code
+  - R Studio
+  - Jupyter notebooks
+  - Model Service
+  - ML pipelines
 
 If you would like an Onboarding/Quick Demo session or require any help or have any questions, please do not hesitate to reach out through our Slack Support channel,
 
