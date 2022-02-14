@@ -8,7 +8,7 @@ Advanced Analytics Workspace (AAW) is our open source platform for data science 
 
 ## Helpful Links
 
-### AWW Services
+### AAW Services
 
 - AAW portal: [https://www.statcan.gc.ca/data-analytics-service/aaw](https://www.statcan.gc.ca/data-analytics-service/aaw)
 - Kubeflow dashboard: [https://kubeflow.aaw.cloud.statcan.ca/](ttps://kubeflow.aaw.cloud.statcan.ca/)
