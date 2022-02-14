@@ -10,9 +10,7 @@ AAW is based on the Kubeflow project which is an open source comprehensive solut
 
 ## Helpful Links
 
-| **Important!** |
-|--------------|
-| Users external to Statistics Canada will require a cloud account granted access by the business sponsor. |
+🔔 **Important!** Users external to Statistics Canada will require a cloud account granted access by the business sponsor.
 
 ### AAW Services
 
@@ -29,7 +27,7 @@ AAW is based on the Kubeflow project which is an open source comprehensive solut
 
 In order to access the AAW services, you will need to:
 
-1. Login to Kubeflow [here](https://kubeflow.aaw.cloud.statcan.ca/) with your StatCan guest cloud account. You will be prompted to authenticate the account.
+1. Login to [Kubeflow](https://kubeflow.aaw.cloud.statcan.ca/) with your StatCan guest cloud account. You will be prompted to authenticate the account.
 2. Select Notebook Servers
 3. Click "+ New Server" button
 
