@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/8212170/153892366-0b44876f-a69e-41ac-9dc7-bfcd2de56977.png)
 
-# Welcome to Advance Analytics Workspace (AAW)
+# ✨ Welcome to Advance Analytics Workspace (AAW)
 
 Please find below additional information, videos and links to help better understand how to Get Started with Advanced Analytics Workspace (AAW). 
 
@@ -12,14 +12,14 @@ AAW is based on the Kubeflow project which is an open source comprehensive solut
 
 ## 🔗 Helpful Links
 
-### AAW Services
+### 🛎️ AAW Services
 
 - AAW Portal Homepage
   - [https://www.statcan.gc.ca/data-analytics-service/aaw](https://www.statcan.gc.ca/data-analytics-service/aaw)
 - Kubeflow Dashboard
   - [https://kubeflow.aaw.cloud.statcan.ca/](https://kubeflow.aaw.cloud.statcan.ca/) 
 
-### ℹ️ Help
+### 💡 Help
 
 - 📗 AAW Portal Documentation
   - [https://statcan.github.io/daaas/](https://statcan.github.io/daaas/)
