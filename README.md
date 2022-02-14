@@ -8,10 +8,12 @@ Please find below additional information, videos and links to help better unders
 
 Advanced Analytics Workspace (AAW) is our open source platform for data science and machine learning for advanced practitioners to get their work done in an unrestricted environment made by data scientists for data scientist.
 
-## Getting Started
+## Helpful Links
 
 - Portal documentation: [https://statcan.github.io/daaas/](https://statcan.github.io/daaas/)
 - Slack support space: [https://statcan-aaw.slack.com](https://statcan-aaw.slack.com) 
+
+## Getting Started
 
 In order to access the AAW services, you will need to:
 
