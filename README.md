@@ -36,7 +36,7 @@ In order to access the AAW services, you will need to:
 2. Select Notebook Servers.
 3. Click the "➕ New Server" button.
 
-### 🧰 Tools Offered
+## 🧰 Tools Offered
 
 AAW is a flexible platform for data analysis and machine learning, featuring:
 
@@ -50,11 +50,11 @@ AAW is a flexible platform for data analysis and machine learning, featuring:
     - Jupyter Notebooks
   - 🐧 Linux virtual desktops for additional tools (🧫 OpenM++, 🌏 QGIS etc.)
 
-### 🐱 Demos
+## 🐱 Demos
 
 If you would like an Onboarding/Quick Demo session or require any help or have any questions, please do not hesitate to reach out through our [🤝 Slack Support Channel](https://statcan-aaw.slack.com).
 
-### FAQ
+## FAQ
 
 - 🚧 Coming soon!
 
