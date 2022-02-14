@@ -10,10 +10,11 @@ AAW is based on the Kubeflow project which is an open source comprehensive solut
 
 ## Helpful Links
 
-🚨 **Important!** Users external to Statistics Canada will require a cloud account granted access by the business sponsor.
+🚨 **Important!** Users external to Statistics Canada will require a cloud account granted access by the business sponsor. Until access has been granted
 
 ### AAW Services
 
+|---|---|
 | AAW Portal Homepage | [https://www.statcan.gc.ca/data-analytics-service/aaw](https://www.statcan.gc.ca/data-analytics-service/aaw) |
 | Kubeflow Dashboard | [https://kubeflow.aaw.cloud.statcan.ca/](https://kubeflow.aaw.cloud.statcan.ca/)  |
 
