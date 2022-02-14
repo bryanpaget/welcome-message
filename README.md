@@ -28,7 +28,7 @@ AAW is based on the Kubeflow project which is an open source comprehensive solut
 - 🤝 Slack Support Channel
   - [https://statcan-aaw.slack.com](https://statcan-aaw.slack.com)
 
-## Getting Started
+## 🧭 Getting Started
 
 In order to access the AAW services, you will need to:
 
@@ -40,9 +40,9 @@ In order to access the AAW services, you will need to:
 
 AAW is a flexible platform for data analysis and machine learning, featuring:
 
-  - Languages: Python, R, Julia
-  - ⌨ Development environments: VS Code, R Studio, Jupyter Notebooks
-  - 🖥️🐧 Linux virtual desktop, for additional tools (OpenM++, QGIS etc...)
+  - 📜 Languages: Python, R, Julia
+  - 🧮 Development environments: VS Code, R Studio, Jupyter Notebooks
+  - 🐧 Linux virtual desktops for additional tools (🧬 OpenM++, 🌏 QGIS etc.)
 
 If you would like an Onboarding/Quick Demo session or require any help or have any questions, please do not hesitate to reach out through our [Slack Support Channel](https://statcan-aaw.slack.com).
 
