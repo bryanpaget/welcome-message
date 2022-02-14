@@ -4,9 +4,10 @@
 
 Please find below additional information, videos and links to help better understand how to Get Started with Advanced Analytics Workspace (AAW). 
 
-Advanced Analytics Workspace (AAW) is our open source platform for data science and machine learning for advanced practitioners to get their work done in an unrestricted environment made by data scientists for data scientist.
+Advanced Analytics Workspace (AAW) is our open source platform for data science and machine learning for advanced practitioners to get their work done in an unrestricted environment made by data scientists for data scientist. With AAW, you can customize your notebook deployment and your compute resources to suit your data science needs.
 
 AAW is based on the Kubeflow project which is an open source platform designed to make deployments of machine learning (ML) workflows on Kubernetes simple, portable and scalable.
+
 
 ## Helpful Links
 
