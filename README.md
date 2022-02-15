@@ -15,7 +15,9 @@ AAW is based on the Kubeflow project which is an open source comprehensive solut
 ### 🛎️ AAW Services
 
 - 🌀 AAW Portal Homepage
-  - [https://www.statcan.gc.ca/data-analytics-service/aaw](https://www.statcan.gc.ca/data-analytics-service/aaw)
+  - **Internal** [https://www.statcan.gc.ca/data-analytics-service/aaw](https://www.statcan.gc.ca/data-analytics-service/aaw)
+  - **External** [https://analytics-platform.statcan.gc.ca/covid19](https://analytics-platform.statcan.gc.ca/covid19)
+
 - 🤖 Kubeflow Dashboard
   - [https://kubeflow.aaw.cloud.statcan.ca/](https://kubeflow.aaw.cloud.statcan.ca/) 
 
