@@ -1,4 +1,5 @@
-![image](https://user-images.githubusercontent.com/8212170/153892366-0b44876f-a69e-41ac-9dc7-bfcd2de56977.png)
+![image](https://user-images.githubusercontent.com/8212170/158241509-e93edc11-a510-4524-a38d-4982c4fb69fb.png)
+
 
 # 🧙🔮 Welcome to Advanced Analytics Workspace (AAW)
 
